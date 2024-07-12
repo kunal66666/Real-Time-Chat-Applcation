@@ -1,6 +1,7 @@
 It is a real-time chat application built using React.js for the frontend and Node.js, Express.js with Socket.IO for the backend server, allowing users to engage in instant messaging.
 
 Project Structure
+
 The project is structured into two main folders:
 
 frontend: Contains the React application for the user interface.
